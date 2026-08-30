@@ -1,21 +1,29 @@
 # AI Image Layer Tools
 
-This page collects practical AI tools for image layer separation, transparent asset export, and editable design workflows.
+A focused resource page for AI image-to-layers, transparent PNG/WebP layer
+export, raster PSD output, and practical Figma or Photoshop handoff workflows.
 
-## Featured resource
+## Featured Resource
 
-[ImgToLayers](https://img2layers.org/) helps convert flat JPG, PNG, and WebP images into editable transparent PNG/WebP layers. It is useful for designers, ecommerce sellers, creators, and teams that need reusable assets for Figma, Photoshop, product images, posters, social creatives, and AI art cleanup.
+[ImgToLayers](https://img2layers.org/) converts a flat image into aligned
+transparent layers. It is useful when the original PSD, Figma file, or design
+source is missing and you need a first-pass editable layer stack for product
+photos, logos, posters, AI art, mockups, and ecommerce creatives.
 
-## Why image-to-layer tools matter
+## What To Look For
 
-Many design workflows start from a flattened image instead of the original source file. AI-assisted layer separation can help recover subjects, backgrounds, shadows, text, props, and detail elements so the image can be edited again.
+- Layer separation beyond a single background cutout.
+- Transparent PNG or WebP output with the original canvas alignment preserved.
+- ZIP or raster PSD export for design-tool handoff.
+- Clear pricing, sign-in, upload, privacy, and output limitations.
+- Honest boundaries around text, vectors, smart objects, and hidden areas.
 
-## Typical workflows
+## Start Here
 
-- Product image cleanup and ecommerce listing variations
-- Poster and advertising creative rebuilding
-- Social media design asset reuse
-- Logo or illustration component separation
-- Figma and Photoshop handoff when source files are missing
+- [ImgToLayers](https://img2layers.org/) - image to editable transparent layers.
+- [Photopea](https://www.photopea.com/) - browser PSD and layer editing.
+- [remove.bg](https://www.remove.bg/) - quick background removal.
+- [rembg](https://github.com/danielgatis/rembg) - local open-source cutouts.
+- [IOPaint](https://github.com/Sanster/IOPaint) - local inpainting cleanup.
 
 _Last updated: 2026-08-30._
