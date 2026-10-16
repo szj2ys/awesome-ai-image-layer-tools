@@ -38,6 +38,9 @@ and detail cutouts.
   workflows.
 - [Photopea](https://www.photopea.com/) - Browser-based image editor that opens
   and saves PSD files, useful after exporting raster layer stacks.
+- [Pic2SVG](https://pic2svg.com/) - Converts raster logos, screenshots, and
+  drawings into editable SVG paths; tracing and preview are free, while file
+  downloads require a paid plan.
 
 ## Background And Subject Separation
 
